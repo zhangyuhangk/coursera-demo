@@ -61,7 +61,6 @@ h1 {
 @media (min-width: 992px) {
     .menu-item {
         width: calc(33.33% - 20px);
-        max-width: 33.33%;
     }
 }
 
