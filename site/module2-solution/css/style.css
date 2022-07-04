@@ -68,7 +68,7 @@ h1 {
     .menu-item {
         width: calc(50% - 20px);
     }
-    .menu-item:last-child.menu-item:nth-child(odd) {
+    .menu-item:last-child:nth-child(odd) {
         width: calc(100% - 20px);
     }
 }
